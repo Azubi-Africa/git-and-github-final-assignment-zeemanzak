@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - time series analysis on foreign exchange rate at ECB            |  -It an analysis on the currency exchange rate from euro to other currencies over a period of 10 years             | https://  https://github.com/zeemanzak/Time-Series-Analysis-on-Foreign-exchange-rate-at-ECB.git     |
+| 2 |  - EDA on revenue generation            |  -  this as to do with an analysis on the revenue generated from product after the sales tax            | https://  https://github.com/zeemanzak/EDA-on-Revenue-Generation.git     |
+| 3 |  -EDA on ticket violation at NYP            |  - it analysis the number of ticket violation of a period of time at nyp            | https://   https://github.com/zeemanzak/EDA-ON-TICKET-VIOLATION-AT-NYP.git    |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
